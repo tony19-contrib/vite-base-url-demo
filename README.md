@@ -1,4 +1,4 @@
-> Demonstrates `vite`'s base URL configuration
+> Demonstrates [`vite`'s base URL configuration](https://vitejs.dev/config/#base)
 
 https://stackoverflow.com/q/68380194/6277151
 
